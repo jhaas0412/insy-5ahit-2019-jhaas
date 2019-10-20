@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/2001/XMLSchema">
+
+    <xs:complexType name="personType">
+        <xs:sequence>
+            <xs:element name="first-name" type="nameType"/>
+            <xs:element name="middle-name" type="nameType"/>
+            <xs:element name="last-name" type="nameType"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:simpleType name="nameType">
+        <xs:restriction base="xs:string">
+            <xs:minLength value="2"/>
+            <xs:maxLength value="50"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:element name="person" type="personType"/>
+</xs:schema>

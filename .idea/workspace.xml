@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24f47e25-66b8-4ad4-ab0e-dbf8fb6261e1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1QdPqsEJr7Nzirft3zCFHUGc3Tf" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\5te Klasse\INSY\Praxis\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24f47e25-66b8-4ad4-ab0e-dbf8fb6261e1" name="Default Changelist" comment="" />
+      <created>1568097693655</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568097693655</updated>
+      <workItem from="1568097698185" duration="2639000" />
+      <workItem from="1568109944782" duration="707000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history>
+      <element expression="/project/subproject" />
+      <element expression="/project/subprojects/subproject" />
+      <element expression="/project[name=Simulation]" />
+      <element expression="/project[name='Simulation']" />
+      <element expression="/project/subprojects/subproject[@id='342566']" />
+      <element expression="/project/subprojects/subproject[@id!='342566']" />
+      <element expression="/project/subprojects/subproject[not(@id='342566')]" />
+      <element expression="/project/partners[(@id='342566']" />
+      <element expression="/project/partners/partner[@partner-role='research-partner']" />
+      <element expression="/project/partners/partner[partner-role='research-partner']" />
+      <element expression="/project[count(subprojects/subproject[name='Computersimulation'])]" />
+      <element expression="/project[count(subprojects/subproject[name='Computersimulation'])=1]/description" />
+    </history>
+    <find-history />
+  </component>
+</project>

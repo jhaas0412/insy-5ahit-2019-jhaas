@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?><positions>
+    <position id="defense">
+        <team code="FRA">
+            <player>LaurentKoscielny</player>
+            <player>DjibrilSidibe</player>
+        </team>
+        <team code="SPA">
+            <player>JordiAlba</player>
+            <player>DaniCarvajal</player>
+            <player>SergioRamos</player>
+            <player>AlbertoMoreno</player>
+            <player>MarcBartra</player>
+        </team>
+        <team code="GER">
+            <player>JeromeBoateng</player>
+            <player>MarcelHalstenberg</player>
+            <player>MatsHummels</player>
+            <player>NiklasSüle</player>
+        </team>
+        <team code="GB">
+            <player>RyanBertrand</player>
+            <player>JoeGomez</player>
+            <player>PhilJones</player>
+        </team>
+        <team code="POR">
+            <player>LuisNeto</player>
+            <player>RicardoPereira</player>
+        </team>
+        <team code="BEL">
+            <player>DedryckBoyata</player>
+            <player>LaurentCiman</player>
+            <player>JordanLukaku</player>
+        </team>
+        <team code="ITA">
+            <player>DanieleRugani</player>
+            <player>AndreaBarzagli</player>
+            <player>DavideZappacosta</player>
+        </team>
+        <team code="RUS">
+            <player>IgorAkinfejew</player>
+            <player>WladimirGabulow</player>
+        </team>
+        <team code="SUI">
+            <player>ManuelAkanji</player>
+            <player>TimmKlose</player>
+        </team>
+        <team code="AUT">
+            <player>StefanLainer</player>
+            <player>AlexanderDragovic</player>
+        </team>
+        <team code="CRO">
+            <player>DejanLovren</player>
+            <player>TinJedvaj</player>
+        </team>
+        <team code="UKR">
+            <player>EduardSobol</player>
+            <player>OlexandrKutscher</player>
+        </team>
+        <team code="CZE">
+            <player>JanBoril</player>
+            <player>MarekSuchy</player>
+        </team>
+        <team code="SWE">
+            <player>FranzBrorsson</player>
+            <player>JoakimNilsson</player>
+            <player>MartinOlson</player>
+        </team>
+        <team code="PLA">
+            <player>KamilGlik</player>
+            <player>JaroslawJach</player>
+            <player>MachlPazdan</player>
+        </team>
+        <team code="ROU">
+            <player>VladChiriches</player>
+            <player>ChristianGanea</player>
+            <player>CosminMoti</player>
+        </team>
+        <team code="SVK">
+            <player>JanDurica</player>
+            <player>NorbertGyomber</player>
+            <player>PeterPekarik</player>
+        </team>
+        <team code="HUN">
+            <player>DenesDibusz</player>
+            <player>PeterGulacsi</player>
+            <player>GaborKiraly</player>
+        </team>
+        <team code="TUR">
+            <player>ErolAlkan</player>
+            <player>SerdarAziz</player>
+            <player>OzanTufan</player>
+        </team>
+        <team code="IRL">
+            <player>DarrenRandolph</player>
+            <player>KeirenWestwood</player>
+            <player>AlexPearce</player>
+        </team>
+    </position>
+    <position id="defense">
+        <team code="FRA">
+            <player>AntoineGriezmann</player>
+            <player>OlivierGiroud</player>
+            <player>NabilFekir</player>
+            <player>FlorianThauvin</player>
+            <player>AlexandreLacazette</player>
+        </team>
+        <team code="SPA">
+            <player>DavicVilla</player>
+            <player>DiegoCosta</player>
+            <player>LucasVazquez</player>
+            <player>AritzAduriz</player>
+        </team>
+        <team code="GER">
+            <player>ToniKroos</player>
+            <player>ThomasMüller</player>
+            <player>MarioGomez</player>
+        </team>
+        <team code="GB">
+            <player>MarcusRashford</player>
+            <player>JamieVardy</player>
+        </team>
+        <team code="POR">
+            <player>AndreSilva</player>
+            <player>RonyLopes</player>
+        </team>
+        <team code="BEL">
+            <player>LaurentDepoitre</player>
+            <player>KevinMirallas</player>
+            <player>AdnanJanuzaj</player>
+        </team>
+        <team code="ITA">
+            <player>CiroImmobile</player>
+            <player>SimoneZaza</player>
+            <player>AndreaBelotti</player>
+        </team>
+        <team code="RUS">
+            <player>AlexanderBucharow</player>
+            <player>DimitriPolos</player>
+        </team>
+        <team code="SUI">
+            <player>ErenDerdiyok</player>
+            <player>JosipDrmic</player>
+            <player>BreelEmbolo</player>
+        </team>
+        <team code="AUT">
+            <player>GuidoBurgstaller</player>
+            <player>MichaelGregorisch</player>
+            <player>MarcJanko</player>
+        </team>
+        <team code="CRO">
+            <player>IvanSantini</player>
+            <player>MarioPjaca</player>
+            <player>NikolaKalinic</player>
+        </team>
+        <team code="UKR">
+            <player>ArtemBjessjedin</player>
+            <player>AndrijJarmolinko</player>
+        </team>
+        <team code="CZE">
+            <player>VaclavKadlex</player>
+            <player>JanKliment</player>
+            <player>MilanSkoda</player>
+        </team>
+        <team code="SWE">
+            <player>SebastianAndersson</player>
+            <player>PerFrick</player>
+            <player>AlexanderIsak</player>
+        </team>
+        <team code="PLA">
+            <player>RpbertLewandowski</player>
+            <player>MariuszStepinski</player>
+            <player>KamilWilczek</player>
+        </team>
+        <team code="ROU">
+            <player>AndreiIvan</player>
+            <player>DorinRotariu</player>
+            <player>BogdanStancu</player>
+        </team>
+        <team code="SVK">
+            <player>MichalDuris</player>
+            <player>AdamNemec</player>
+        </team>
+        <team code="HUN">
+            <player>DanielBöde</player>
+            <player>ZoltanGera</player>
+            <player>AdamSzali</player>
+        </team>
+        <team code="TUR">
+            <player>CenkTosun</player>
+            <player>EnesUnal</player>
+        </team>
+        <team code="IRL">
+            <player>ShaneLong</player>
+            <player>ScottHogan</player>
+            <player>AidenOBrien</player>
+        </team>
+    </position>
+    <position id="defense">
+        <team code="FRA"/>
+        <team code="SPA">
+            <player>MarcoAsensio</player>
+            <player>AndresIniesta</player>
+            <player>DavidSilva</player>
+            <player>JaviMartinez</player>
+            <player>AnderHerrera</player>
+        </team>
+        <team code="GER">
+            <player>JulianBrandt</player>
+            <player>EmreCan</player>
+            <player>SamiKhedira</player>
+        </team>
+        <team code="GB">
+            <player>LewisCook</player>
+            <player>JesseLingard</player>
+        </team>
+        <team code="POR">
+            <player>ManuelFernandes</player>
+            <player>DaniloPereira</player>
+            <player>BrunoFernandes</player>
+        </team>
+        <team code="BEL">
+            <player>AxelWitsel</player>
+            <player>StevenDefour</player>
+            <player>AdnanJanuzaj</player>
+        </team>
+        <team code="ITA">
+            <player>RobertoGagliardini</player>
+            <player>MarcoParolo</player>
+            <player>AlessandroFlorenzi</player>
+        </team>
+        <team code="RUS">
+            <player>DenisGluschakow</player>
+            <player>AlexanderGolowin</player>
+            <player>AlexanderJerochin</player>
+        </team>
+        <team code="SUI">
+            <player>FabianFrei</player>
+            <player>SevenZuber</player>
+            <player>GranitXhaka</player>
+            <player>ValentinStocker</player>
+        </team>
+        <team code="AUT">
+            <player>DavidAlaba</player>
+            <player>MarcoArnautovic</player>
+            <player>LouisSchaub</player>
+        </team>
+        <team code="CRO">
+            <player>FilipBradaric</player>
+            <player>LukaModric</player>
+            <player>IvanPerisic</player>
+        </team>
+        <team code="UKR">
+            <player>WiktorZhyankow</player>
+            <player>JewhenSchachow</player>
+            <player>JewhenKonopljanka</player>
+        </team>
+        <team code="CZE">
+            <player>JosefHusbauer</player>
+            <player>AntoninBarak</player>
+            <player>TomasHorava</player>
+        </team>
+        <team code="SWE">
+            <player>AlexanderFransson</player>
+            <player>OscarLewicki</player>
+            <player>KenSema</player>
+        </team>
+        <team code="PLA">
+            <player>PiotrZielinski</player>
+            <player>JacekGoralski</player>
+            <player>RafalKurzawa</player>
+        </team>
+        <team code="ROU">
+            <player>AlexandruChipciu</player>
+            <player>EricBicfalvi</player>
+            <player>NicolaeStanciu</player>
+        </team>
+        <team code="SVK">
+            <player>RobertMak</player>
+            <player>MiroslavStock</player>
+            <player>VladimirWeis</player>
+        </team>
+        <team code="HUN">
+            <player>LaszloKleinheisler</player>
+            <player>AdamNagy</player>
+        </team>
+        <team code="TUR">
+            <player>EmreAkbaba</player>
+            <player>YunusMalli</player>
+            <player>CengizUnder</player>
+        </team>
+        <team code="IRL">
+            <player>JonnyHayes</player>
+            <player>Harry ArterArter</player>
+            <player>AidenMcGeady</player>
+        </team>
+    </position>
+</positions>

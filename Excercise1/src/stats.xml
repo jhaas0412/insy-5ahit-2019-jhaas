@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><stats>
+    <team group="1" code="FRA">
+        <name>France</name>
+        <opponents/>
+    </team>
+    <team group="1" code="SPA">
+        <name>Spain</name>
+        <opponents/>
+    </team>
+    <team group="1" code="GER">
+        <name>Germany</name>
+        <opponents/>
+    </team>
+    <team group="1" code="GBS">
+        <name/>
+        <opponents/>
+    </team>
+    <team group="1" code="POR">
+        <name>Portugal</name>
+        <opponents/>
+    </team>
+    <team group="1" code="BEL">
+        <name>Belgium</name>
+        <opponents/>
+    </team>
+    <team group="2" code="ITA">
+        <name>Italy</name>
+        <opponents/>
+    </team>
+    <team group="2" code="RUS">
+        <name>Russia</name>
+        <opponents/>
+    </team>
+    <team group="2" code="SUI">
+        <name>Swiss</name>
+        <opponents/>
+    </team>
+    <team group="2" code="AUT">
+        <name>Austria</name>
+        <opponents/>
+    </team>
+    <team group="2" code="CRO">
+        <name>Kroatia</name>
+        <opponents/>
+    </team>
+    <team group="2" code="UKR">
+        <name>Ukraine</name>
+        <opponents/>
+    </team>
+    <team group="3" code="CZE">
+        <name>Tschek Republic</name>
+        <opponents/>
+    </team>
+    <team group="3" code="SWE">
+        <name>Sweden</name>
+        <opponents/>
+    </team>
+    <team group="3" code="PLA">
+        <name>Poland</name>
+        <opponents/>
+    </team>
+    <team group="3" code="ROU">
+        <name>Romania</name>
+        <opponents/>
+    </team>
+    <team group="3" code="SVK">
+        <name>Slovakia</name>
+        <opponents/>
+    </team>
+    <team group="3" code="HUN">
+        <name>Hungry</name>
+        <opponents/>
+    </team>
+    <team group="4" code="TUR">
+        <name>Turkey</name>
+        <opponents/>
+    </team>
+    <team group="4" code="IRL">
+        <name>Ireland</name>
+        <opponents/>
+    </team>
+    <team group="4" code="ISL">
+        <name/>
+        <opponents/>
+    </team>
+    <team group="4" code="WAL">
+        <name/>
+        <opponents/>
+    </team>
+    <team group="4" code="ALB">
+        <name/>
+        <opponents/>
+    </team>
+    <team group="4" code="NIR">
+        <name/>
+        <opponents/>
+    </team>
+</stats>

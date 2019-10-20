@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/2001/XMLSchema">
+
+    <xs:complexType name="historyType">
+        <xs:sequence>
+            <xs:element name="periods" type="periodsType"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="periodsType">
+        <xs:all>
+            <xs:element name="period" type="periodType"/>
+        </xs:all>
+        <xs:attribute name="ordered" type="xs:boolean"/>
+    </xs:complexType>
+
+    <xs:complexType name="periodType">
+        <xs:all>
+            <xs:element name="description" type="xs:string"/>
+            <xs:element name="timeperiod" type="timeperiodType"/>
+            <xs:element name="leaders" type="leadersType"/>
+        </xs:all>
+    </xs:complexType>
+
+    <xs:complexType name="timeperiodType">
+        <xs:choice>
+            <xs:sequence>
+                <xs:element name="begin" type="xs:integer"/>
+                <xs:element name="end" type="xs:integer"/>
+            </xs:sequence>
+            <xs:element name="point-in-time" type="xs:string"/>
+        </xs:choice>
+        <xs:attribute name="spec" type="xs:string"/>
+    </xs:complexType>
+
+    <xs:complexType name="leadersType">
+        <xs:sequence>
+            <xs:element name="leader" type="leaderType"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="leaderType">
+        <xs:sequence>
+            <xs:element name="name" type="leaderNameType"/>
+            <xs:element name="origin" type="xs:string"/>
+            <xs:element name="battles" type="battlesType"/>
+        </xs:sequence>
+        <xs:attribute name="historical-figure" type="xs:boolean"/>
+    </xs:complexType>
+
+    <xs:complexType name="leaderNameType">
+        <xs:simpleContent xml:base="xs:string"/>
+        <xs:attribute name="pseudonym" type="xs:boolean"/>
+    </xs:complexType>
+
+    <xs:complexType name="battlesType">
+        <xs:all>
+            <xs:element name="battle" type="battleType"/>
+        </xs:all>
+    </xs:complexType>
+
+    <xs:complexType name="battleType">
+        <xs:sequence>
+            <xs:element name="label" type="xs:string"/>
+            <xs:element name="timeperiod" type="timeperiodType"/>
+            <xs:element name="opponenet" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:element name="history" type="historyType"/>
+</xs:schema>

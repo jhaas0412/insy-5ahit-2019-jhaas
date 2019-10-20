@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9a2eac1-33f2-439a-9ed9-0283c52d1117" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XSLT Stylesheet" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QlnpstvVgw4Zqp4bb0yiwsGDOJ" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/term.xsl" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\5te Klasse\INSY\Praxis\Excercise1\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\5te Klasse\INSY\Praxis\Excercise1\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="XSLT.term">
+    <configuration default="true" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" value="D:\5te Klasse\INSY\Praxis\Excercise1\src\exe1.xml" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" value="" />
+      <option name="myWorkingDirectory" value="" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <XsltFile url="file://$PROJECT_DIR$/src/exe1.xsl" />
+      <XmlFile url="file://$PROJECT_DIR$/src/euro.xml" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="true" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exe1" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" value="D:\5te Klasse\INSY\Praxis\Excercise1\src\exe1.xml" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" value="" />
+      <option name="myWorkingDirectory" value="" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <XsltFile url="file://$PROJECT_DIR$/src/exe1.xsl" />
+      <XmlFile url="file://$PROJECT_DIR$/src/euro.xml" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="true" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exe2" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" value="D:\5te Klasse\INSY\Praxis\Excercise1\src\exe2.xml" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" value="" />
+      <option name="myWorkingDirectory" value="" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <XsltFile url="file://$PROJECT_DIR$/src/exe2.xsl" />
+      <XmlFile url="file://$PROJECT_DIR$/src/euro.xml" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="true" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="familytree" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" value="D:\5te Klasse\INSY\Praxis\Excercise1\src\familytree.xml" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" value="" />
+      <option name="myWorkingDirectory" value="" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <XsltFile url="file://$PROJECT_DIR$/src/familytree.xsl" />
+      <XmlFile url="file://$PROJECT_DIR$/src/family.xml" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="true" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="magazine" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" value="D:\5te Klasse\INSY\Praxis\Excercise1\src\magazine.xml" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" value="" />
+      <option name="myWorkingDirectory" value="" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <XsltFile url="file://$PROJECT_DIR$/src/magazine.xsl" />
+      <XmlFile url="file://$PROJECT_DIR$/src/report.xml" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="true" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="result" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" value="D:\5te Klasse\INSY\Praxis\Excercise1\src\resultexe4.xml" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" value="" />
+      <option name="myWorkingDirectory" value="" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <XsltFile url="file://$PROJECT_DIR$/src/result.xsl" />
+      <XmlFile url="file://$PROJECT_DIR$/src/euro.xml" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="true" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stats" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" value="D:\5te Klasse\INSY\Praxis\Excercise1\src\stats.xml" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" value="" />
+      <option name="myWorkingDirectory" value="" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <XsltFile url="file://$PROJECT_DIR$/src/stats.xsl" />
+      <XmlFile url="file://$PROJECT_DIR$/src/euro.xml" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="true" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="term" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" value="D:\5te Klasse\INSY\Praxis\Excercise1\src\term.xml" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" value="" />
+      <option name="myWorkingDirectory" value="" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <XsltFile url="file://$PROJECT_DIR$/src/term.xsl" />
+      <XmlFile url="file://$PROJECT_DIR$/src/npm.xml" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="true" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="XSLT.magazine" />
+      <item itemvalue="XSLT.term" />
+      <item itemvalue="XSLT.stats" />
+      <item itemvalue="XSLT.familytree" />
+      <item itemvalue="XSLT.result" />
+      <item itemvalue="XSLT.exe2" />
+      <item itemvalue="XSLT.exe1" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9a2eac1-33f2-439a-9ed9-0283c52d1117" name="Default Changelist" comment="" />
+      <created>1568354236913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568354236913</updated>
+      <workItem from="1568354242121" duration="4576000" />
+      <workItem from="1568700725192" duration="3864000" />
+      <workItem from="1568712653480" duration="139000" />
+      <workItem from="1569047531924" duration="5035000" />
+      <workItem from="1569304438866" duration="5364000" />
+      <workItem from="1569571112849" duration="93000" />
+      <workItem from="1569909418990" duration="5268000" />
+      <workItem from="1569922533828" duration="68000" />
+      <workItem from="1570513854407" duration="5475000" />
+      <workItem from="1570527561716" duration="71000" />
+      <workItem from="1570773533421" duration="5254000" />
+      <workItem from="1571121510962" duration="2418000" />
+      <workItem from="1571477399787" duration="1945000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history>
+      <element expression="/euro/teams/team[nation/name='France']/position[@type=&quot;defense&quot;]/player/name/last-name" />
+      <element expression="/euro/teams/team[nation/name='France']/position[@type=&quot;defense&quot;]/player/name/last-name/text()" />
+      <element expression="/euro/teams/team[nation/name='Spain']/position[@type=&quot;attack&quot;]/player/name/last-name/text()" />
+      <element expression="/euro/teams/team[nation/name='Spain']/position[@type=&quot;attack&quot;]/player/club/text()" />
+      <element expression="/euro/teams/team/nation/name='Spain']/position[@type=&quot;attack&quot;]/player/club/text()" />
+      <element expression="/euro/teams/team/nation[short-name/text()=/euro/]" />
+      <element expression="/euro/teams/team/nation[short-name/text()=/euro/matches/match]" />
+      <element expression="/euro/teams/team/nation[short-name/text()=/euro/matches/last-four/match/team/text()]/name" />
+      <element expression="/euro/teams/team/nation[short-name/text()=/euro/matches/last-four/match/team/text()]/name/text()" />
+      <element expression="/euro/teams/team/position[@type='playground'][1]" />
+      <element expression="/euro/teams/team/position[@type='playground'][1]/player" />
+      <element expression="/euro/teams/team/position[@type='playground']/player[1]" />
+      <element expression="/euro/teams/team/player" />
+      <element expression="count(/euro/teams/team/position/player[club='Real Madrid'])" />
+      <element expression="/euro/groups/group/team=[.=/euro/groups/last-sixteen/match/team]" />
+      <element expression="/euro/groups/group/team=[.=/euro/matches/last-sixteen/match/team]" />
+      <element expression="/euro/groups/group/team[.=/euro/matches/last-sixteen/match/team]" />
+      <element expression="/euro/teams/team/position[@type='playground'][1]/player/" />
+      <element expression="count(/euro/matches/*/match[team/text()='POR'])" />
+      <element expression="not(/euro/matches/*/match[team/text()='POR'])" />
+      <element expression="not(/euro/matches/*/match[.=euro/matches/*/match[team/text()='POR']]/team/text()='POR')" />
+      <element expression="/euro/matches/*/match[.=euro/matches/*/match[team/text()='POR']]/team/text()=not('POR')" />
+      <element expression="/euro/matches/*/match[.=euro/matches/*/match[team/text()='POR']]/team/text()='POR'" />
+      <element expression="/euro/matches/*/match[.=euro/matches/*/match[team/text()='POR']]/team[text()='POR']" />
+      <element expression="/euro/matches/*/match[.=euro/matches/*/match[team/text()='POR']]/[team/text()='POR']" />
+      <element expression="/euro/matches/*/match[.=euro/matches/*/match[team/text()='POR']]/team[text()='POR']/team" />
+      <element expression="/euro/matches/*/match[.=euro/matches/*/match[team/text()='POR']]/team" />
+      <element expression="/euro/matches/*/match[team/text()='POR']/team" />
+      <element expression="/euro/matches/*/match[team/text()='POR']/team[text()=not('POR')]" />
+      <element expression="/euro/groups/group[team/text()='POR']/team[text()=not('POR')]" />
+      <element expression="/euro/groups/group[team/text()='POR']/team[not(text()='POR')]" />
+      <element expression="/travelAgency" />
+      <element expression="/travelAgency/summercamps/summercamp" />
+      <element expression="/travelAgency/sportcamps/summercamp[@id=]" />
+      <element expression="/travelAgency/sportcamps/*[@id=/travelAgency/bookings/booking[@campid]]" />
+      <element expression="/travelAgency/sportcamps/*[@id/text()=/travelAgency/bookings/booking[@campid/text()]]" />
+      <element expression="/travelAgency/sportcamps/*[@id=/travelAgency/bookings/booking/@campid]" />
+      <element expression="/travelAgency/sportcamps/*[@id=/travelAgency/bookings/booking/@campid]/name" />
+      <element expression="/travelAgency/sportcamps/sommercamp[@id=/travelAgency/bookings/booking/@campid]/name" />
+      <element expression="/travelAgency/sportcamps/summercamp[@id=/travelAgency/bookings/booking/@campid]/name" />
+      <element expression="/travelAgency/sportcamps/*[@date]/name" />
+      <element expression="/travelAgency/bookings/booking[@date]" />
+      <element expression="/travelAgency/bookings/booking[@date]/campid" />
+      <element expression="/travelAgency/bookings/booking[@date]/@campid" />
+      <element expression="travelAgency/sportcamps/*[@id=/travelAgency/bookings/booking[@date]/@campid]" />
+      <element expression="travelAgency/sportcamps/*[@id=/travelAgency/bookings/booking[@date]/@campid]/name" />
+      <element expression="/travelAgency/sportcamps/*[@id=/travelAgency/bookings/booking[@date]/@campid]/name" />
+      <element expression="/travelAgency/sportcamps/*[@id=/travelAgency/bookings/booking[@date]/@campid]/name[1]" />
+      <element expression="/travelAgency/sportcamps/*[@id=/travelAgency/bookings/booking[@date]/@campid][1]/name" />
+      <element expression="/travelAgency/sportcamps/*[@id=/travelAgency/bookings/booking[not(@date)]/@campid]/name" />
+      <element expression="/child::group/" />
+      <element expression="/descendant::team[.='FRA']" />
+      <element expression="/descendant::group/descendant::team[.='FRA']/preceding-sibling::team" />
+      <element expression="/descendant::group/descendant::team[.='FRA']/following-sibling::team" />
+      <element expression="/descendant::name[.='John Washington']" />
+      <element expression="/ancestor::name[.='John Washington']" />
+      <element expression="/descendant::parents[/person/name/text()='John Washington']/preceding-sibling::name" />
+      <element expression="/ancestor::parents/child::person[child::name='John Washington']" />
+      <element expression="//ancestor::parents/child::person[child::name='John Washington']" />
+      <element expression="//ancestor::parents/child::person[child::name='John Washington']/ancestor::name" />
+      <element expression="/descendant::person[name='John Washington']/ancestor::parents" />
+      <element expression="/descendant::person[name='John Washington']/ancestor::person[gender='male']" />
+      <element expression="/descendant::person[name='John Washington']/following-sibling::name" />
+      <element expression="/descendant::person[name='John Washington']/following-sibling::person" />
+      <element expression="/descendant::person[name='John Washington']/following-sibling::person/child::name" />
+      <element expression="/descendant::/descendant::position[@type='defense']" />
+      <element expression="/descendant::nation[name='France']/descendant::position[@type='defense']" />
+      <element expression="/descendant::nation[name='France']/descendant::position[attribute::type='defense']" />
+      <element expression="/descendant::nation[child::name='France']/descendant::position[attribute::type='defense']" />
+      <element expression="/descendant::nation[child::name='France']/following-sibling::position[attribute::type='defense']" />
+      <element expression="//descendant::nation[child::name='France']/" />
+      <element expression="//descendant::nation[child::name='France']" />
+      <element expression="/descendant::nation[child::name='France']" />
+      <element expression="//descendant::nation" />
+      <element expression="//descendant::nation[child::name='France']/following-sibling::position[attribute::type='defense']/child::player" />
+      <element expression="concat(//descendant::nation[child::name='France']/following-sibling::position[attribute::type='defense']/child::player/child::first-name,//descendant::nation[child::name='France']/following-sibling::position[attribute::type='defense']/child::player/child::last-name)" />
+      <element expression="concat(//descendant::nation[child::name='France']/following-sibling::position[attribute::type='defense']/child::player/child::first-name/text(),//descendant::nation[child::name='France']/following-sibling::position[attribute::type='defense']/child::player/child::last-name/text())" />
+      <element expression="concat(//descendant::nation[child::name='France']/following-sibling::position[attribute::type='defense']/descendant::first-name/text(),//descendant::nation[child::name='France']/following-sibling::position[attribute::type='defense']/descendant::last-name/text())" />
+      <element expression="//sportcamps/*[@id = //booking[@date]/@campid]" />
+      <element expression="/descendant::sportcamps/child::*[attribute::id]" />
+      <element expression="/descendant::sportcamps/child::*[attribute::id=(descendant::booking[attribute::date]/attribute::campid)]" />
+      <element expression="/descendant::sportcamps/child::*[attribute::id=(/descendant::booking[attribute::date]/attribute::campid)]" />
+      <element expression="/descendant::customer[attribute::id=(/descendant::booking/attribute::customerid)]" />
+      <element expression="/descendant::sports/child::*/child::*" />
+      <element expression="/descendant::sports/descendant::*" />
+      <element expression="/descendant::super-g/descendant::*" />
+      <element expression="/descendant::super-g" />
+      <element expression="/descendant::super-g/following-sibling::*" />
+      <element expression="/descendant::super-g/following-sibling::*/preceding-sibling::*" />
+      <element expression="/descendant::skiing/child::*" />
+      <element expression="//*[not(normalize-space())]" />
+      <element expression="/descendant::snow-sports/[not(normalize-space())]" />
+      <element expression="/descendant::snow-sports/child::*[not(normalize-space())]" />
+      <element expression="/descendant::snow-sports/descendant::*[not(normalize-space())]" />
+      <element expression="//snow-sports/*[not(normalize-space())]" />
+      <element expression="//snow-sports/descendant::*[not(normalize-space())]" />
+      <element expression="//*[Not(*)]" />
+      <element expression="//snow-sports/*[not(*)]" />
+      <element expression="count(//snow-sports//*[not(*)])" />
+      <element expression="count(//*)" />
+      <element expression="/sports//*" />
+      <element expression="//snow-sports//*[not(*)]" />
+      <element expression="//ball-games//*[not(*)]" />
+      <element expression="//*(not(*))" />
+      <element expression="///*{not(*)]" />
+      <element expression="//*{not(*)]" />
+      <element expression="//*[not(*)][not(ancestor::ball-games)]" />
+      <element expression="/summer-sports//*[not(*)][not(ancestor::ball-games)]" />
+      <element expression="/summer-sports/*[not(*)][not(ancestor::ball-games)]" />
+      <element expression="//summer-sports//*[not(*)][not(ancestor::ball-games)]" />
+      <element expression="//*[not(*)]/ancestor::*" />
+      <element expression="//ski-run/parent::*/following-sibling::*/*[not(*)]" />
+      <element expression="//*[not(*)]" />
+      <element expression="//*[not(*)][not(//ski-run/parent::*)]" />
+      <element expression="//*[not(*)][not(/parent::*=//ski-run/parent::*)]" />
+      <element expression="//*[not(*)][/parent::*=not(//ski-run/parent::*)]" />
+      <element expression="//*" />
+      <element expression="//group/team[not(@round &lt; following-sibling::team/@round) and not(@round &lt; preceding-sibling::team/@round)]" />
+      <element expression="//short-name='FRA'/preceding-sibling::name/text()" />
+    </history>
+    <find-history />
+  </component>
+</project>

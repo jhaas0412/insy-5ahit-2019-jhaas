@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npn-term>
+    <or>
+        <and>
+            <term>A</term>
+            <or>
+                <term>B</term>
+                <not>
+                    <term>C</term>
+                </not>
+            </or>
+        </and>
+        <term>A</term>
+     </or>
+</npn-term>
